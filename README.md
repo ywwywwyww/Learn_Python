@@ -1,4 +1,4 @@
-# python_study
+# learnpython
 
 　　努力学习Python中。
 
